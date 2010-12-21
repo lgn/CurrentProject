@@ -1,0 +1,10 @@
+﻿
+/*  SITE WIDE ELEMENTS
+*************************************************/
+body { }
+
+/*  _LAYOUT
+*************************************************/
+#wrapper { width: 950px; margin: 0 auto; }
+#header { padding: 1em; }
+#main { padding: 1em; }

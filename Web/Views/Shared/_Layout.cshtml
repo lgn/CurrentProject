@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    @Html.CSS("reset")
+    @Html.CSS("site")
+    @Html.Script("jquery-1.4.4.min")
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <h1>
+                Bible Memory</h1>
+        </div>
+        <div id="main-content">
+            @RenderBody()
+        </div>
+        <div id="footer">
+        </div>
+    </div>
+</body>
+</html>
