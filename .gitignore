@@ -9,4 +9,3 @@ build/
 _ReSharper.*/
 AssemblyInfo.cs
 *.user
-lib/
